@@ -58,3 +58,13 @@ li {
     font-size: 1.5vw;
     text-align: center;
 }
+
+.surligne {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.surligne2 {
+    background-color: transparent;
+    font-weight: normal;
+}
